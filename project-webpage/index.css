@@ -1,0 +1,66 @@
+#first{
+    background-color: rgb(203, 252, 252);
+    padding:20px;
+    text-align: center;
+
+}
+#second{
+    padding-top:40px;
+    text-align:center;
+    color:blue;
+}
+#third{
+    background-color: rgb(203, 252, 252);
+   
+   padding: 30px;
+   text-align: center;
+}
+#third1{
+ background-color: rgb(220, 186, 251);
+ padding: 40px 10px;
+ display: inline-block;
+ flex-direction: row;
+ align-items: center;
+ margin:10px;
+}
+#third2{
+background-color: rgb(171, 245, 171);
+padding: 40px 10px;
+text-align: center;
+display: inline-block;
+margin:10px;
+}
+#third21{
+    background-color: aliceblue;
+    margin:3px;
+    padding: 10px;
+
+}
+#third3{
+    background-color: rgb(220, 186, 251);
+    margin: 5px 10px;
+    padding: 40px 10px;
+    display: inline-block;
+}
+.fourth{
+    background-color: rgb(0, 136, 255);
+    padding: 5px;
+}
+#fourth1{
+   background-color: aliceblue;
+   margin:10px;
+   padding: 20px;
+   text-align: center;
+}
+#fourth2{
+    background-color: aliceblue;
+    margin:10px;
+    padding: 20px;
+    text-align: center;
+}
+#fourth3{
+    background-color: aliceblue;
+    margin:10px;
+    padding: 20px;
+    text-align: center;
+}
