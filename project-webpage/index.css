@@ -24,18 +24,16 @@
  margin:10px;
 }
 #third2{
-background-color: rgb(171, 245, 171);
+background-color: white;
+border: 6px solid green;
 padding: 40px 10px;
 text-align: center;
 display: inline-block;
 margin:10px;
 }
-#third21{
-    background-color: aliceblue;
-    margin:3px;
-    padding: 10px;
 
-}
+
+
 #third3{
     background-color: rgb(220, 186, 251);
     margin: 5px 10px;
@@ -51,16 +49,19 @@ margin:10px;
    margin:10px;
    padding: 20px;
    text-align: center;
+   border-radius:10px;
 }
 #fourth2{
     background-color: aliceblue;
     margin:10px;
     padding: 20px;
     text-align: center;
+    border-radius:10px;
 }
 #fourth3{
     background-color: aliceblue;
     margin:10px;
     padding: 20px;
     text-align: center;
+    border-radius:10px;
 }
