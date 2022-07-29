@@ -1,0 +1,39 @@
+html{
+    font-size: 40px;
+}
+body{
+    background: linear-gradient(to bottom, rgb(204,229, 255),rgba(204,229,255,0.4));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    background-attachment: fixed;
+    text-align:justify;
+    /* justify means align from both left and right */
+
+}
+#maindiv{
+    font-size:32 px;
+}
+#div1{
+    font-size: 2em;
+}
+#div2{
+   font-size:2 rem;
+}
+#service-image{
+    height:400px;
+    width:70vw;
+    background: radial-gradient(red 40%, blue 50%, green 10%);
+}
+table,td,th{
+    border:10px solid red;
+    padding:1%;
+    text-align:center;
+     xz
+   
+}
+table{
+    width:100%;
+    margin-top:20px;
+    /* border-collapse:collapse; */
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js"></script>
+</head>
+ 
+<body>
+    <p id="demo">total price of:</p>
+    <p id="demo1">fullname is:</p>
+    <p id="demo2"></p>
+    <p id="demo3"></p>
+    <p id="demo4"></p>
+    <script>
+      var price1=2;
+        var price2 =3;
+        var totalprice;
+        totalprice=price1+price2;
+           document.write(totalprice);
+        //    var name="Muskan"+" "+" Goel"
+var fullname="muskangoyal";
+let person={
+    age:20,
+    name:"muskangoyal",
+    eyecolor:"black"
+}
+const pie=3.14;
+var radius=2;
+var area= pie*radius*radius;
+console.log(area);
+// var person={
+    // name:"muskangoyal",
+    // eyecolor:"black",
+    // age:21
+// }
+           document.getElementById("demo").innerHTML="the total is:"+totalprice;
+          document.getElementById("demo1").innerHTML="the fullname is"+fullname;
+          document.getElementById("demo2").innerHTML="the value of age is"+person.age;
+        //   document.getElementById("demo3").innerHTML="the value of age is"+person.age;
+        document.getElementById("demo4").innerHTML="the value of area is"+area;
+    
+
+    </script>
+</body>
+</html>
