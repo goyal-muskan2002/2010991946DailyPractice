@@ -1,0 +1,18 @@
+#demo5{
+    width:300px;
+    border:2px solid blue;
+    /* margin:inherit; */
+    text-align: justify;
+}
+.demo{
+    border:2px solid red;
+    margin-left: 20px;
+  
+    
+}
+.demo6{
+    border:2px solid blue;
+    /* margin:inherit; */
+    text-align: justify;
+
+}

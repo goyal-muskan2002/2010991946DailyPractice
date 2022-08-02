@@ -27,13 +27,14 @@ body{
 }
 table,td,th{
     border:10px solid red;
-    padding:1%;
+    padding:2%;
+    margin:1%;
     text-align:center;
-     xz
+     
    
 }
 table{
     width:100%;
-    margin-top:20px;
+    /* margin-top:20px; */
     /* border-collapse:collapse; */
 }
