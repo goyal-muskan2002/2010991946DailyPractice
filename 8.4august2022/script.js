@@ -27,3 +27,27 @@ function f3click(){
     }
     document.getElementById("p2").innerHTML=count;
 }
+function f4click(){
+    let day;
+    switch(new Date().getDay()){
+        case 0:
+        day="sunday";
+        break;
+        case 1:
+        day="monday";
+        break;
+        case 2:
+        day="tuesday";
+        break;
+        case 3:
+        day="wednesday";
+        break'
+        case 4:
+        day="thursday";
+        break;
+        case 5:
+            day="friday";
+    }
+    document.getElementById("p3").innerHTML=day;
+    
+}
