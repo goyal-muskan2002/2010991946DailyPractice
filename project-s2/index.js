@@ -5,7 +5,7 @@ function fnClick(){
     var sum=0;
     var count=0;
     while(n>0){
-        rem=n%10;
+        rem=n%10;                                                       11
         sum=sum+rem;
         n=Math.floor(n/10);
         count++;
