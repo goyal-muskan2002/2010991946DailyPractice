@@ -8,7 +8,11 @@
         var img=document.getElementById('mercury');
        img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
+     
 
 
       
@@ -23,7 +27,10 @@
         img.style.height="150px";
        img.style.width="150px";
        
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+
        
         
     }
@@ -37,7 +44,10 @@
         var img=document.getElementById('moon');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
        
         
     }
@@ -51,7 +61,10 @@
         var img=document.getElementById('mars');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
     }
     function f5(){
         var p=document.getElementById('para');
@@ -62,7 +75,10 @@
         var img=document.getElementById('jupiter');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
     }
     function f6(){
         var p=document.getElementById('para');
@@ -73,7 +89,10 @@
         var img=document.getElementById('saturn');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
     }
     function f7(){
         var p=document.getElementById('para');
@@ -84,7 +103,10 @@
         var img=document.getElementById('uranus');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
     }
 
     function f8(){
@@ -96,7 +118,10 @@
         var img=document.getElementById('neptune');
         img.style.height="150px";
        img.style.width="150px";
+       p.style.backgroundColor="aqua";
        p.style.color="red";
+       p.style.borderRadius="10px";
+    
     }
    
 

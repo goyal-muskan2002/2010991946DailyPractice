@@ -9,10 +9,14 @@ body{
     background-image:url("http://wallpapercave.com/wp/OY52vgj.jpg");
     background-position: cover;
     background-position: center;
+    font-weight: bold;
 
 
 
 
+}
+#text1{
+    border-radius: 20px;
 }
 .header{
     text-align: center;
@@ -42,5 +46,7 @@ body{
     width: max-content;
     padding: 5px;
     color: black;
+    border-radius:15px;
+    
 
 }
